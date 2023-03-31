@@ -28,10 +28,31 @@ ol{
    list-style-type: none;
 }
 
+ul{
+    list-style-type: none;
+}
+
 #heading-1-title{
     color: brown;
 }
 
 .list-item-1{
     color: blueviolet;
+}
+
+footer{
+    background-color: darkkhaki;
+}
+
+#nav-elements{
+    display: block;
+    padding: 15px 10px;
+    float: left;
+    background-color: aqua;
+    border: 1px solid white;
+    
+}
+
+#nabar{
+    background-color: coral;
 }
